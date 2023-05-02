@@ -6,7 +6,7 @@
         <div class="animate_top zd/2 to/4">
           <a href="{{ route('home') }}">
             <img src="{{ Vite::asset('resources/images/edventuremm-logo.png') }}"
-              alt="Logo" class="om" />
+              alt="Logo" class="h-10 w-10" />
             {{-- <img src="{{ Vite::asset('resources/images/logo-dark.svg') }}"
               alt="Logo" class="xc nm" /> --}}
           </a>
