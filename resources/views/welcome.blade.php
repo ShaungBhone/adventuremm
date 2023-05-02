@@ -141,7 +141,7 @@
       <!-- ===== About End ===== -->
 
       <!-- ===== Projects Start ===== -->
-      <section class="pg pj vp mr oj wp nr">
+      {{-- <section class="pg pj vp mr oj wp nr">
         <!-- Section Title Start -->
         <div x-data="{ sectionTitle: `We Offer Great Affordable Premium Prices.`, sectionTitleText: `It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using.` }">
           <div class="animate_top bb ze rj ki xn vq">
@@ -275,11 +275,11 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> --}}
       <!-- ===== Projects End ===== -->
 
       <!-- ===== Testimonials Start ===== -->
-      <section class="hj rp hr">
+      {{-- <section class="hj rp hr">
         <!-- Section Title Start -->
         <div x-data="{ sectionTitle: `Client’s Testimonials`, sectionTitleText: `It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using.` }">
           <div class="animate_top bb ze rj ki xn vq">
@@ -362,11 +362,11 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> --}}
       <!-- ===== Testimonials End ===== -->
 
       <!-- ===== Counter Start ===== -->
-      <section class="i pg qh rm ji hp">
+      {{-- <section class="i pg qh rm ji hp">
         <img src="{{ Vite::asset('resources/images/shape-11.svg') }}"
           alt="Shape" class="of h ga ha ke" />
         <img src="{{ Vite::asset('resources/images/shape-07.svg') }}"
@@ -396,11 +396,11 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> --}}
       <!-- ===== Counter End ===== -->
 
       <!-- ===== Clients Start ===== -->
-      <section class="pj vp mr">
+      {{-- <section class="pj vp mr">
         <!-- Section Title Start -->
         <div x-data="{ sectionTitle: `Trusted by Global Brands`, sectionTitleText: `It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using.` }">
           <div class="animate_top bb ze rj ki xn vq">
@@ -465,7 +465,7 @@
             </a>
           </div>
         </div>
-      </section>
+      </section> --}}
       <!-- ===== Clients End ===== -->
 
       <!-- ===== Blog Start ===== -->

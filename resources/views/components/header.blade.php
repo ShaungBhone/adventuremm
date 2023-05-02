@@ -6,9 +6,9 @@
         <img class="w-10 h-10"
           src="{{ Vite::asset('resources/images/edventuremm-logo.png') }}"
           alt="Logo Light" />
-        <img class="xc nm"
+        {{-- <img class="xc nm"
           src="{{ Vite::asset('resources/images/logo-dark.svg') }}"
-          alt="Logo Dark" />
+          alt="Logo Dark" /> --}}
       </a>
 
       <!-- Hamburger Toggle BTN -->
