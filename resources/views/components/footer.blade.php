@@ -11,8 +11,10 @@
               alt="Logo" class="xc nm" /> --}}
           </a>
 
-          <p class="lc fb">Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.</p>
+          <p class="lc fb">
+            The primary goal of Edventure is to achieve a triple win for
+            students, parents, and partner institutions.
+          </p>
 
           <ul class="tc wf cg">
             <li>

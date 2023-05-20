@@ -22,13 +22,16 @@
         <!-- Hero Content -->
         <div class="bb ze ki xn 2xl:ud-px-0">
           <div class="tc _o">
-            <div class="animate_left jn/2">
-              <h1 class="fk vj zp or kk wm wb">We specialize in UI/UX, Web
-                Development, Digital Marketing.</h1>
+            <div class="animate_left jn/2 z-10">
+              <h1 class="fk vj zp or kk wm wb">
+                We offer you to reach your global academic goal with our one stop
+                service.
+              </h1>
               <p class="fq">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-                fringilla magna mauris. Nulla fermentum
-                viverra sem eu rhoncus consequat varius nisi quis, posuere magna.
+                We provide training as a one-stop service, including scholarships
+                programs, essay writing training, English skills courses, and so
+                on, with the goal of assisting Myanmar Youths in studying abroad
+                and supporting them with the necessary abilities.
               </p>
 
               <div class="tc tf yo zf mb">
@@ -118,11 +121,20 @@
             <!-- About Content -->
             <div class="animate_right jn/2">
               <h4 class="ek yj mk gb">Why Choose Us</h4>
-              <h2 class="fk vj zp pr kk wm qb">We Make Our customers happy by
-                giving Best services.</h2>
-              <p class="uo">It is a long established fact that a reader will
-                be distracted by the readable content of a
-                page when looking at its layout. The point of using Lorem Ipsum.
+              <h2 class="fk vj zp pr kk wm qb">
+                Learn With Us, Go with Us and Grow with us
+              </h2>
+              <p class="uo">One stop Oversea Educational Services
+                Edventure Education provides students with a personalized and
+                thorough service. We understand their individual needs and
+                collaborate with them to attain their goals. One-on-one
+                consultations, specialized course recommendations, economical
+                study alternatives, and assistance with accommodation, visas,
+                notary services, and language preparation are all part of our
+                offerings.Our aim is to make the student experience as comfortable
+                and stress-free as possible. Choose Edventure Education for a
+                life-changing educational adventure.
+
               </p>
 
               <a href="https://www.youtube.com/watch?v=xcJtL7QggTI"
@@ -471,7 +483,7 @@
       <!-- ===== Blog Start ===== -->
       <section class="ji gp uq">
         <!-- Section Title Start -->
-        <div x-data="{ sectionTitle: `Latest Blogs & News`, sectionTitleText: `It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using.` }">
+        <div x-data="{ sectionTitle: `Latest Blogs & News`, sectionTitleText: `Some pinned post to be displayed on website (coming soon)` }">
           <div class="animate_top bb ze rj ki xn vq">
             <h2 x-text="sectionTitle" class="fk vj pr kk wm on/5 gq/2 bb _b">
             </h2>
@@ -492,7 +504,7 @@
                   alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
-                  <a href="./blog-single.html"
+                  <a href="https://www.facebook.com/107041167792621/posts/pfbid0bJ5oB74x1RZEMS4uP1MVErvpm1GJPXkaS7JYgPRt9gDeV63pUEuW7iU66JozkFaal/?mibextid=cr9u03"
                     class="vc ek rg lk gh sl ml il gi hi">Read More</a>
                 </div>
               </div>
@@ -500,8 +512,7 @@
               <div class="yh">
                 <div class="tc uf wf ag jq">
                   <div class="tc wf ag">
-                    <img
-                      src="{{ Vite::asset('resources/images/icon-man.svg') }}"
+                    <img src="{{ Vite::asset('resources/images/icon-man.svg') }}"
                       alt="User" />
                     <p>Musharof Chy</p>
                   </div>
@@ -513,8 +524,9 @@
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
-                  <a href="blog-single.html">Free advertising for your online
-                    business</a>
+                  <a href="https://www.facebook.com/107041167792621/posts/pfbid0bJ5oB74x1RZEMS4uP1MVErvpm1GJPXkaS7JYgPRt9gDeV63pUEuW7iU66JozkFaal/?mibextid=cr9u03">
+                    Study Engineering and technology in Thailand
+                  </a>
                 </h4>
               </div>
             </div>
@@ -527,7 +539,7 @@
                   alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
-                  <a href="./blog-single.html"
+                  <a href="https://www.facebook.com/107041167792621/posts/pfbid0288Q832VZtz4WWYbN93PMeRy36JHUpccCfadTvDLzRHeLkwCsqTU7nKA1YRS9rsdgl/?mibextid=cr9u03"
                     class="vc ek rg lk gh sl ml il gi hi">Read More</a>
                 </div>
               </div>
@@ -548,8 +560,9 @@
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
-                  <a href="blog-single.html">9 simple ways to improve your design
-                    skills</a>
+                  <a href="https://www.facebook.com/107041167792621/posts/pfbid0288Q832VZtz4WWYbN93PMeRy36JHUpccCfadTvDLzRHeLkwCsqTU7nKA1YRS9rsdgl/?mibextid=cr9u03">
+                    Free Academic Webinar
+                  </a>
                 </h4>
               </div>
             </div>
@@ -562,7 +575,7 @@
                   alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
-                  <a href="./blog-single.html"
+                  <a href="https://www.facebook.com/107041167792621/posts/pfbid079iiPq3bfbrxbUsd7oUUVsS6uvmVeU2M9kTzit7P8Hv9v1XLLuapXz5FwF1FnsC6l/?mibextid=cr9u03"
                     class="vc ek rg lk gh sl ml il gi hi">Read More</a>
                 </div>
               </div>
@@ -583,8 +596,9 @@
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
-                  <a href="blog-single.html">Tips to quickly improve your coding
-                    speed.</a>
+                  <a href="https://www.facebook.com/107041167792621/posts/pfbid079iiPq3bfbrxbUsd7oUUVsS6uvmVeU2M9kTzit7P8Hv9v1XLLuapXz5FwF1FnsC6l/?mibextid=cr9u03">
+                    Rangsit University Scholarship Info Sharing Session
+                  </a>
                 </h4>
               </div>
             </div>
@@ -607,9 +621,7 @@
                 Join with 5000+ Startups Growing with Base.
               </h2>
               <p class="lk">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis
-                nibh lorem. Duis sed odio lorem. In a
-                efficitur leo. Ut venenatis rhoncus.
+                A bridge to connect your Study Abroad Dream with Reality.
               </p>
             </div>
             <div class="animate_right bf">

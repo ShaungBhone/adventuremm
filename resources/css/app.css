@@ -2210,7 +2210,7 @@ h1,  h2,  h3,  h4,  h5,  h6{
   }
 
   .xo{
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
   .yo{
