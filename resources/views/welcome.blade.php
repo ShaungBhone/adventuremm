@@ -24,7 +24,7 @@
           <div class="tc _o">
             <div class="animate_left jn/2 z-10">
               <h1 class="fk vj zp or kk wm wb">
-                Reach your global academic goal
+                Reach your global academic goal.
               </h1>
               <p class="fq">
                 We provide training as a one-stop service, including scholarships
