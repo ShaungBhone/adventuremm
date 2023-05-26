@@ -34,8 +34,8 @@
               </p>
 
               <div class="tc tf yo zf mb">
-                <a href="#" class="ek jk lk gh gi hi rg ml il vc _d _l">Get
-                  Started Now</a>
+                <a href="#"
+                  class="ek jk lk gh gi hi rg ml il vc _d _l">Inquire Now</a>
 
                 <span class="tc sf">
                   <a href="#" class="ek xj kk wm inline-block"> Call us
@@ -521,7 +521,8 @@
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
-                  <a href="https://www.facebook.com/107041167792621/posts/pfbid0bJ5oB74x1RZEMS4uP1MVErvpm1GJPXkaS7JYgPRt9gDeV63pUEuW7iU66JozkFaal/?mibextid=cr9u03">
+                  <a
+                    href="https://www.facebook.com/107041167792621/posts/pfbid0bJ5oB74x1RZEMS4uP1MVErvpm1GJPXkaS7JYgPRt9gDeV63pUEuW7iU66JozkFaal/?mibextid=cr9u03">
                     Study Engineering and technology in Thailand
                   </a>
                 </h4>
@@ -557,7 +558,8 @@
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
-                  <a href="https://www.facebook.com/107041167792621/posts/pfbid0288Q832VZtz4WWYbN93PMeRy36JHUpccCfadTvDLzRHeLkwCsqTU7nKA1YRS9rsdgl/?mibextid=cr9u03">
+                  <a
+                    href="https://www.facebook.com/107041167792621/posts/pfbid0288Q832VZtz4WWYbN93PMeRy36JHUpccCfadTvDLzRHeLkwCsqTU7nKA1YRS9rsdgl/?mibextid=cr9u03">
                     Free Academic Webinar
                   </a>
                 </h4>
@@ -593,7 +595,8 @@
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
-                  <a href="https://www.facebook.com/107041167792621/posts/pfbid079iiPq3bfbrxbUsd7oUUVsS6uvmVeU2M9kTzit7P8Hv9v1XLLuapXz5FwF1FnsC6l/?mibextid=cr9u03">
+                  <a
+                    href="https://www.facebook.com/107041167792621/posts/pfbid079iiPq3bfbrxbUsd7oUUVsS6uvmVeU2M9kTzit7P8Hv9v1XLLuapXz5FwF1FnsC6l/?mibextid=cr9u03">
                     Rangsit University Scholarship Info Sharing Session
                   </a>
                 </h4>
