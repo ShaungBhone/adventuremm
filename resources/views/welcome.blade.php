@@ -24,8 +24,7 @@
           <div class="tc _o">
             <div class="animate_left jn/2 z-10">
               <h1 class="fk vj zp or kk wm wb">
-                We offer you to reach your global academic goal with our one stop
-                service.
+                Reach your global academic goal.
               </h1>
               <p class="fq">
                 We provide training as a one-stop service, including scholarships
@@ -101,12 +100,10 @@
             <!-- About Images -->
             <div class="animate_left xc gn gg jn/2 i">
               <div>
-                <img src="{{ Vite::asset('resources/images/icon-01.svg') }}"
-                  alt="Shape" class="h -ud-left-5 x" />
                 <img src="{{ Vite::asset('resources/images/about-01.png') }}"
-                  alt="About" class="ib" />
+                  alt="About" class="ib w-72 rounded-lg" />
                 <img src="{{ Vite::asset('resources/images/about-02.png') }}"
-                  alt="About" />
+                  alt="About" class="w-72 rounded-lg" />
               </div>
               <div>
                 <img src="{{ Vite::asset('resources/images/shape-06.svg') }}"
@@ -124,7 +121,7 @@
               <h2 class="fk vj zp pr kk wm qb">
                 Learn With Us, Go with Us and Grow with us
               </h2>
-              <p class="uo">One stop Oversea Educational Services
+              <p class="uo">
                 Edventure Education provides students with a personalized and
                 thorough service. We understand their individual needs and
                 collaborate with them to attain their goals. One-on-one
@@ -618,11 +615,8 @@
           <div class="tc uf sn tn un gg">
             <div class="animate_left to/2">
               <h2 class="fk vj zp pr lk ac">
-                Join with 5000+ Startups Growing with Base.
-              </h2>
-              <p class="lk">
                 A bridge to connect your Study Abroad Dream with Reality.
-              </p>
+              </h2>
             </div>
             <div class="animate_right bf">
               <a href="#" class="vc ek kk hh rg ol il cm gi hi">
