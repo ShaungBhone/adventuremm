@@ -61,7 +61,7 @@
               </div>
               <div>
                 <h4 class="ek yj go kk wm xb">24/7 Support</h4>
-                <p>Lorem ipsum dolor sit amet conse adipiscing elit.</p>
+                <p>lkajsklfjalskjfklasjdfl;kasdf;lasd;flkj</p>
               </div>
             </div>
 
