@@ -7,7 +7,7 @@
       <div class="animate_top bb ze rj ki xn vq">
         <h2 x-text="sectionTitle" class="fk vj pr kk wm on/5 gq/2 bb _b">
         </h2>
-        <p class="bb on/5 wo/5 hq" x-text="sectionTitleText"></p>
+        {{-- <p class="bb on/5 wo/5 hq" x-text="sectionTitleText"></p> --}}
       </div>
 
 
@@ -15,7 +15,7 @@
     <!-- Section Title End -->
 
     <div class="bb ze ki xn yq mb en">
-      <div class="wc qf pn xo ng">
+      <div class="wc qf pn ng">
         <!-- Service Item -->
         <div class="animate_top sg oi pi zq ml il am cn _m">
           <img src="{{ Vite::asset('resources/images/icon-04.svg') }}"
