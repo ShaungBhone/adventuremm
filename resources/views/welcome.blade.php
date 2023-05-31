@@ -59,9 +59,8 @@
                 <img src="{{ Vite::asset('resources/images/icon-01.svg') }}"
                   alt="Icon" />
               </div>
-              <div>
-                <h4 class="ek yj go kk wm xb">24/7 Support</h4>
-                <p>lkajsklfjalskjfklasjdfl;kasdf;lasd;flkj</p>
+              <div class="my-auto">
+                <h4 class="ek yj go kk wm xb">Affordable prices</h4>
               </div>
             </div>
 
@@ -71,9 +70,8 @@
                 <img src="{{ Vite::asset('resources/images/icon-02.svg') }}"
                   alt="Icon" />
               </div>
-              <div>
-                <h4 class="ek yj go kk wm xb">Take Ownership</h4>
-                <p>Lorem ipsum dolor sit amet conse adipiscing elit.</p>
+              <div class="my-auto">
+                <h4 class="ek yj go kk wm xb">Individualized approach</h4>
               </div>
             </div>
 
@@ -83,9 +81,8 @@
                 <img src="{{ Vite::asset('resources/images/icon-03.svg') }}"
                   alt="Icon" />
               </div>
-              <div>
-                <h4 class="ek yj go kk wm xb">Team Work</h4>
-                <p>Lorem ipsum dolor sit amet conse adipiscing elit.</p>
+              <div class="my-auto">
+                <h4 class="ek yj go kk wm xb">Comprehensive service</h4>
               </div>
             </div>
           </div>
@@ -511,13 +508,13 @@
                   <div class="tc wf ag">
                     <img src="{{ Vite::asset('resources/images/icon-man.svg') }}"
                       alt="User" />
-                    <p>Musharof Chy</p>
+                    <p>Edventure Education</p>
                   </div>
                   <div class="tc wf ag">
                     <img
                       src="{{ Vite::asset('resources/images/icon-calender.svg') }}"
                       alt="Calender" />
-                    <p>25 Dec, 2025</p>
+                    <p>27 April, 2023</p>
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
@@ -548,13 +545,13 @@
                     <img
                       src="{{ Vite::asset('resources/images/icon-man.svg') }}"
                       alt="User" />
-                    <p>Musharof Chy</p>
+                    <p>Edventure Education</p>
                   </div>
                   <div class="tc wf ag">
                     <img
                       src="{{ Vite::asset('resources/images/icon-calender.svg') }}"
                       alt="Calender" />
-                    <p>25 Dec, 2025</p>
+                    <p>8 May, 2023</p>
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
@@ -585,13 +582,13 @@
                     <img
                       src="{{ Vite::asset('resources/images/icon-man.svg') }}"
                       alt="User" />
-                    <p>Musharof Chy</p>
+                    <p>Edventure Education</p>
                   </div>
                   <div class="tc wf ag">
                     <img
                       src="{{ Vite::asset('resources/images/icon-calender.svg') }}"
                       alt="Calender" />
-                    <p>25 Dec, 2025</p>
+                    <p>3 Dec, 2023</p>
                   </div>
                 </div>
                 <h4 class="ek tj ml il kk wm xl eq lb">
