@@ -4,7 +4,7 @@
   <section id="support" class="i pg fh rm ji gp uq">
     <!-- Bg Shapes -->
     <img src="{{ Vite::asset('resources/images/shape-06.svg') }}" alt="Shape"
-      class="h aa y" />
+      class="h top-28 y" />
     <img src="{{ Vite::asset('resources/images/shape-03.svg') }}" alt="Shape"
       class="h ca u" />
     <img src="{{ Vite::asset('resources/images/shape-07.svg') }}" alt="Shape"
@@ -37,7 +37,7 @@
 
           <div class="fb">
             <h4 class="wj kk wm cc">Email Address</h4>
-            <p><a href="#">pr@edventuremm.com</a></p>
+            <p><a href="#">hello@edventuremm.com</a></p>
           </div>
           <div class="fb">
             <h4 class="wj kk wm cc">Office Location</h4>

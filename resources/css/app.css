@@ -2213,6 +2213,10 @@ h1,  h2,  h3,  h4,  h5,  h6{
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .g-about {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
   .yo{
     flex-direction: row;
   }

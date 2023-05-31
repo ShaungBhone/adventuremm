@@ -39,7 +39,7 @@
 
                 <span class="tc sf">
                   <a href="#" class="ek xj kk wm inline-block"> Call us
-                    (0123) 456 – 789 </a>
+                    +95 9 772 678 113 </a>
                   <span class="inline-block">For any question or concern</span>
                 </span>
               </div>
@@ -52,7 +52,7 @@
       <!-- ===== Small Features Start ===== -->
       <section id="features">
         <div class="bb ze ki yn 2xl:ud-px-12.5">
-          <div class="tc uf zo xf ap zf bp mq">
+          <div class="tc uf zo ap zf bp mq">
             <!-- Small Features Item -->
             <div class="animate_top kn to/3 tc cg oq">
               <div class="tc wf xf cf ae cd rg mh">
@@ -478,7 +478,7 @@
       <!-- ===== Clients End ===== -->
 
       <!-- ===== Blog Start ===== -->
-      <section class="ji gp uq">
+      <section class="pb-16">
         <!-- Section Title Start -->
         <div x-data="{ sectionTitle: `Latest Blogs & News`, sectionTitleText: `Some pinned post to be displayed on website (coming soon)` }">
           <div class="animate_top bb ze rj ki xn vq">

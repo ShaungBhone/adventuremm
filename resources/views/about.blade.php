@@ -18,7 +18,7 @@
       <div class="animate_top bb ze rj ki xn vq">
         <h2 x-text="sectionTitle" class="fk vj pr kk wm on/5 gq/2 bb _b">
         </h2>
-        <p class="bb on/5 wo/5 hq" x-text="sectionTitleText"></p>
+        {{-- <p class="bb on/5 wo/5 hq" x-text="sectionTitleText"></p> --}}
       </div>
 
 
@@ -26,7 +26,7 @@
     <!-- Section Title End -->
 
     <div class="bb ze i va ki xn xq jb jo">
-      <div class="wc qf pn xogg gg cp">
+      <div class="wc qf pn xogg gg cp g-about">
         <!-- Team Item -->
         <div class="animate_top rj">
           <div class="c i pg z-1">
@@ -34,7 +34,7 @@
               src="{{ Vite::asset('resources/images/team-01.png') }}"
               alt="Team" />
 
-            <div class="ef im nl il">
+            {{-- <div class="ef im nl il">
               <span class="h -ud-left-5 -ud-bottom-21 rc de gd gh if wa"></span>
               <span class="h s p rc vd hd mh va"></span>
               <div class="h s p vd ij jj xa">
@@ -74,11 +74,11 @@
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> --}}
           </div>
 
-          <h4 class="yj go kk wm ob zb">Olivia Andrium</h4>
-          <p>Product Manager</p>
+          <h4 class="yj go kk wm ob zb">Thet Hnin Satt</h4>
+          <p>Director</p>
         </div>
 
         <!-- Team Item -->
@@ -88,7 +88,7 @@
               src="{{ Vite::asset('resources/images/team-02.png') }}"
               alt="Team" />
 
-            <div class="ef im nl il">
+            {{-- <div class="ef im nl il">
               <span class="h -ud-left-5 -ud-bottom-21 rc de gd gh if wa"></span>
               <span class="h s p rc vd hd mh va"></span>
               <div class="h s p vd ij jj xa">
@@ -128,11 +128,11 @@
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> --}}
           </div>
 
-          <h4 class="yj go kk wm ob zb">Jemse Kemorun</h4>
-          <p>Product Designer</p>
+          <h4 class="yj go kk wm ob zb">Myat Hmue Sithu <br> @ Leon</h4>
+          <p>General Manager</p>
         </div>
 
         <!-- Team Item -->
@@ -142,7 +142,7 @@
               src="{{ Vite::asset('resources/images/team-03.png') }}"
               alt="Team" />
 
-            <div class="ef im nl il">
+            {{-- <div class="ef im nl il">
               <span class="h -ud-left-5 -ud-bottom-21 rc de gd gh if wa"></span>
               <span class="h s p rc vd hd mh va"></span>
               <div class="h s p vd ij jj xa">
@@ -182,11 +182,11 @@
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> --}}
           </div>
 
-          <h4 class="yj go kk wm ob zb">Avi Pestarica</h4>
-          <p>Web Designer</p>
+          <h4 class="yj go kk wm ob zb">Hsu Pyae Win</h4>
+          <p>Marketing Executive</p>
         </div>
 
         <!-- Team Item -->
@@ -196,7 +196,7 @@
               src="{{ Vite::asset('resources/images/team-04.png') }}"
               alt="Team" />
 
-            <div class="ef im nl il">
+            {{-- <div class="ef im nl il">
               <span class="h -ud-left-5 -ud-bottom-21 rc de gd gh if wa"></span>
               <span class="h s p rc vd hd mh va"></span>
               <div class="h s p vd ij jj xa">
@@ -236,11 +236,11 @@
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> --}}
           </div>
 
-          <h4 class="yj go kk wm ob zb">Avi Pestarica</h4>
-          <p>Web Designer</p>
+          <h4 class="yj go kk wm ob zb">Shine Min Khant</h4>
+          <p>Research Specialist</p>
         </div>
       </div>
     </div>

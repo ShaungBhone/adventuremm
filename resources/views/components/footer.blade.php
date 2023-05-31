@@ -58,7 +58,7 @@
             </ul>
           </div> --}}
 
-          <div class="animate_top w-1/4">
+          <div class="animate_top md:w-1/4 w-1/2">
             <h4 class="kk wm tj ec">Contact</h4>
             <p>No. 35, Room. 301, Phyar Pon Street,
               San Chaung Township, Yangon,
@@ -73,8 +73,8 @@
     <!-- Footer Bottom -->
     <div class="bh ch pm tc uf sf yo wf xf ap cg fp bj">
       <div class="animate_top">
-        <ul class="tc wf gg">
-          <li>Made with &#128154;<a target="blank" href="https://www.shaungbhone.com" class="xl ml-2">SB</a></li>
+        <ul class="tc wf gg uppercase">
+          <li>Developed by<a target="blank" href="https://www.shaungbhone.com" class="xl ml-2">SB</a></li>
         </ul>
       </div>
 
