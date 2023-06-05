@@ -15,7 +15,7 @@
             alt="shape" class="xc 2xl:ud-block h v w va" />
           <img src="{{ Vite::asset('resources/images/shape-04.svg') }}"
             alt="shape" class="h q r" />
-          <img src="{{ Vite::asset('resources/images/hero.png') }}" alt="Woman"
+          <img src="{{ Vite::asset('resources/images/hero.jpg') }}" alt="Hero"
             class="h q r ua" />
         </div>
 

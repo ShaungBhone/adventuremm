@@ -74,8 +74,8 @@
           </div>
         </div>
 
-        <div class="animate_top nn/5 vo/3 vk sg hh sm yh tq w-full">
-          <form action="https://formbold.com/s/unique_form_id" method="POST">
+        <div class="animate_top nn/5 vo/3 vk sg hh sm yh w-full">
+          {{-- <form action="https://formbold.com/s/unique_form_id" method="POST">
             <div class="tc sf yo ap zf ep qb">
               <div class="vd to/2">
                 <label class="rc ac" for="fullname">Full name</label>
@@ -119,7 +119,8 @@
                 Send Message
               </button>
             </div>
-          </form>
+          </form> --}}
+          <img class="w-full" src="{{ Vite::asset('resources/images/map.png') }}" alt="Map">
         </div>
       </div>
     </div>
