@@ -31,7 +31,7 @@
         <div class="animate_top rj">
           <div class="c i pg z-1">
             <img class="vd"
-              src="{{ Vite::asset('resources/images/team-01.png') }}"
+              src="{{ Vite::asset('resources/images/team-01.jpg') }}"
               alt="Team" />
 
             {{-- <div class="ef im nl il">
