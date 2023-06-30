@@ -1,5 +1,7 @@
 @extends('layouts.app')
-
+@section('title')
+  Service
+@endsection
 @section('content')
   <section class="lj tp kr mt-40">
     <!-- Section Title Start -->

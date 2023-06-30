@@ -1,5 +1,7 @@
 @extends('layouts.app')
-
+@section('title')
+  About
+@endsection
 @section('content')
   <section class="i pg ji gp uq">
     <!-- Bg Shapes -->

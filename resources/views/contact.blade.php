@@ -1,10 +1,12 @@
 @extends('layouts.app')
-
+@section('title')
+  Contact
+@endsection
 @section('content')
   <section id="support" class="i pg fh rm ji gp uq">
     <!-- Bg Shapes -->
     <img src="{{ Vite::asset('resources/images/shape-06.svg') }}" alt="Shape"
-      class="h top-28 y" />
+      class="h y top-28" />
     <img src="{{ Vite::asset('resources/images/shape-03.svg') }}" alt="Shape"
       class="h ca u" />
     <img src="{{ Vite::asset('resources/images/shape-07.svg') }}" alt="Shape"
@@ -60,7 +62,8 @@
             <h4 class="wj kk wm qb">Social Media</h4>
             <ul class="tc wf fg">
               <li>
-                <a href="https://www.facebook.com/EdventureMyanmar" class="c tc wf xf ie ld rg ml il tl">
+                <a href="https://www.facebook.com/EdventureMyanmar"
+                  class="c tc wf xf ie ld rg ml il tl">
                   <svg class="th lm ml il" width="11" height="20"
                     viewBox="0 0 11 20" fill="none"
                     xmlns="http://www.w3.org/2000/svg">
@@ -120,7 +123,8 @@
               </button>
             </div>
           </form> --}}
-          <img class="w-full" src="{{ Vite::asset('resources/images/map.png') }}" alt="Map">
+          <img class="w-full" src="{{ Vite::asset('resources/images/map.png') }}"
+            alt="Map">
         </div>
       </div>
     </div>
