@@ -496,7 +496,7 @@
             <div class="animate_top sg vk rm xm">
               <div class="c rc i z-1 pg">
                 <img class="w-full"
-                  src="{{ Vite::asset('resources/images/blog-01.png') }}"
+                  src="{{ Vite::asset('resources/images/abroad.jpg') }}"
                   alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
@@ -532,7 +532,7 @@
             <div class="animate_top sg vk rm xm">
               <div class="c rc i z-1 pg">
                 <img class="w-full"
-                  src="{{ Vite::asset('resources/images/blog-02.png') }}"
+                  src="{{ Vite::asset('resources/images/consultation-session.jpg') }}"
                   alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
@@ -570,7 +570,7 @@
             <div class="animate_top sg vk rm xm">
               <div class="c rc i z-1 pg">
                 <img class="w-full"
-                  src="{{ Vite::asset('resources/images/blog-03.png') }}"
+                  src="{{ Vite::asset('resources/images/consultation-service.jpg') }}"
                   alt="Blog" />
 
                 <div class="im h r s df vd yc wg tc wf xf al hh/20 nl il z-10">
