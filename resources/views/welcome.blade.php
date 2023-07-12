@@ -624,7 +624,7 @@
               </h2>
             </div>
             <div class="animate_right bf">
-              <a href="#" class="vc ek kk hh rg ol il cm gi hi">
+              <a href="https://m.me/EdventureMyanmar/" class="vc ek kk hh rg ol il cm gi hi">
                 Get Started Now
               </a>
             </div>
