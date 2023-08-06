@@ -74,7 +74,7 @@
     <div class="bh ch pm tc uf sf yo wf xf ap cg fp bj">
       <div class="animate_top">
         <ul class="tc wf gg uppercase">
-          <li>Developed by<a target="blank" href="https://www.shaungbhone.com" class="xl ml-2">SB</a></li>
+          <li>Developed by<a target="blank" href="https://barlote.com" class="xl ml-2">Barlote</a></li>
         </ul>
       </div>
 
